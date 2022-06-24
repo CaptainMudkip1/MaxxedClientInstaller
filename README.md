@@ -7,11 +7,13 @@ A custom Hypixel client for Minecraft.
 
 ## Installation
 
+**NOTE:** This is only available for Windows at the moment.
+
 Open the official Minecraft launcher and run 1.8.9. As soon as the game launches you may close this window.
 
-Windows: Download and run the latest version of `MaxxedClient.bat`
+Download and run the latest version of `MaxxedClient.bat`
 
-Other operating systems: This is only for Windows at the moment.
+After the installation, you will need to make a new profile in the official launcher with the version `MaxxedClient` and the folder `%appdata%/.minecraft/MaxxedClient`.
 ## Mods used
 
  - [Sidebar Mod](https://github.com/Alexdoru/SidebarMod)
