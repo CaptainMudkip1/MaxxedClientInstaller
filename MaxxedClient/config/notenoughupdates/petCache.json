@@ -1,0 +1,100 @@
+{
+  "petMap": {
+    "0": {
+      "petType": "GHOUL",
+      "rarity": "LEGENDARY",
+      "petLevel": {
+        "level": 1.0,
+        "currentLevelRequirement": 660.0,
+        "maxXP": 2.535323E7,
+        "levelPercentage": 0.0,
+        "levelXp": 0.0,
+        "totalXp": 0.0
+      },
+      "petXpType": "combat"
+    },
+    "1": {
+      "petType": "WOLF",
+      "rarity": "EPIC",
+      "petLevel": {
+        "level": 48.691193,
+        "currentLevelRequirement": 32400.0,
+        "maxXP": 1.86085E7,
+        "levelPercentage": 0.69119114,
+        "levelXp": 22394.594,
+        "totalXp": 357794.6
+      },
+      "petXpType": "combat",
+      "petItem": "PET_ITEM_COMBAT_SKILL_BOOST_COMMON"
+    },
+    "2": {
+      "petType": "RABBIT",
+      "rarity": "UNCOMMON",
+      "petLevel": {
+        "level": 9.626945,
+        "currentLevelRequirement": 360.0,
+        "maxXP": 8644220.0,
+        "levelPercentage": 0.6269444,
+        "levelXp": 225.7,
+        "totalXp": 2185.7
+      },
+      "petXpType": "farming"
+    },
+    "3": {
+      "petType": "ROCK",
+      "rarity": "UNCOMMON",
+      "petLevel": {
+        "level": 1.0,
+        "currentLevelRequirement": 175.0,
+        "maxXP": 8644220.0,
+        "levelPercentage": 0.0,
+        "levelXp": 0.0,
+        "totalXp": 0.0
+      },
+      "petXpType": "mining"
+    },
+    "4": {
+      "petType": "GRIFFIN",
+      "rarity": "COMMON",
+      "petLevel": {
+        "level": 72.467545,
+        "currentLevelRequirement": 60400.0,
+        "maxXP": 5624785.0,
+        "levelPercentage": 0.46754467,
+        "levelXp": 28239.7,
+        "totalXp": 715924.7
+      },
+      "petXpType": "combat"
+    },
+    "5": {
+      "petType": "GRANDMA_WOLF",
+      "rarity": "COMMON",
+      "petLevel": {
+        "level": 1.0,
+        "currentLevelRequirement": 100.0,
+        "maxXP": 5624785.0,
+        "levelPercentage": 0.0,
+        "levelXp": 0.0,
+        "totalXp": 0.0
+      },
+      "petXpType": "combat"
+    },
+    "6": {
+      "petType": "ROCK",
+      "rarity": "COMMON",
+      "petLevel": {
+        "level": 1.0,
+        "currentLevelRequirement": 100.0,
+        "maxXP": 5624785.0,
+        "levelPercentage": 0.0,
+        "levelXp": 0.0,
+        "totalXp": 0.0
+      },
+      "petXpType": "mining"
+    }
+  },
+  "selectedPet": 1,
+  "selectedPet2": 3,
+  "tamingLevel": 1,
+  "beastMultiplier": 0.0
+}
