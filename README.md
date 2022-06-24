@@ -9,7 +9,7 @@ A custom Hypixel client for Minecraft.
 
 Open the official Minecraft launcher and run 1.8.9. As soon as the game launches you may close this window.
 
-Windows: Download and run the latest version of `Maxxed Client.bat`
+Windows: Download and run the latest version of `MaxxedClient.bat`
 
 Other operating systems: This is only for Windows at the moment.
 ## Mods used
